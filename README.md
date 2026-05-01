@@ -1,33 +1,9 @@
-# 🔧 hermes-uk-deals
+# ---
 
-A [Hermes Agent](https://hermes-agent.nousresearch.com/) skill for **uk-deals** (productivity category).
+--- name: uk-deals version: 1.0.0 
 
-## Installation
-
-```bash
-cd ~/.hermes/skills/productivity
-git clone https://github.com/Marrowleaf/hermes-uk-deals.git uk-deals
-```
-
-## Usage
-
-Once installed, this skill is automatically detected by Hermes Agent. Load it with:
-
-```
-skill_view(name="uk-deals")
-```
-
-## Structure
-
-- `SKILL.md` — Full documentation with commands, examples, and pitfalls
-- `references/` — Reference materials (if any)
-- `scripts/` — Utility scripts (if any)
-- `templates/` — Template files (if any)
+Part of the [Hermes Agent](https://github.com/Marrowleaf/hermes-agent) skill ecosystem.
 
 ## License
 
-MIT — see [LICENSE](LICENSE)
-
----
-
-Built with ❤️ by [James Durrant](https://github.com/Marrowleaf) and [Hermes Agent](https://hermes-agent.nousresearch.com/)
+MIT License - Copyright (c) 2026 James Durrant
